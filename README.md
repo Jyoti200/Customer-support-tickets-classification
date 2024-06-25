@@ -1,7 +1,5 @@
 # Customer-support-tickets-classification
-We need to build a model that can classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.
-
-To build a model capable of classifying customer complaints based on products and services, follow these steps:
+We aim to create a model that categorizes customer complaints by the products or services involved. This will streamline ticket handling and lead to faster issue resolution.
 
 # Data Preparation
 
